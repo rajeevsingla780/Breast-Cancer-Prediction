@@ -4,7 +4,7 @@ import pickle
 from flask import Flask, request, render_template
 import numpy.random._pickle
 
-app = Flask()
+app = Flask(__name__)
 model = pickle.load(open('Model/model.pkl','rb'))
 
 @app.route('/')
