@@ -29,7 +29,7 @@ Fill in the relevant details and click on the Result button
 #### Providing information regarding the various cancer communities ####
 ----------------------------------------------------------------------------------------
 
-
+<img src=https://github.com/rajeevsingla780/Breast-Cancer-Prediction/blob/main/images/Community.PNG?raw=true>
 
 
 #### Providing relevant news regarding the breast cancer ####
