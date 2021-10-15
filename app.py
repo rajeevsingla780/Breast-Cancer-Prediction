@@ -4,11 +4,11 @@ import pickle
 from flask import Flask, request, render_template
 import numpy.random._pickle
 
-app = Flask(__name__,template_folder='templates/')
+app = Flask()
 model = pickle.load(open('Model/model.pkl','rb'))
 
 @app.route('/')
-def careDemia():
+def Raj():
     return render_template('index.html')
 
 @app.route('/predict', methods=['GET','POST'])
