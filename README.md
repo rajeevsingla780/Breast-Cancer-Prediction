@@ -17,7 +17,7 @@
 * Once dependencies are installed, just run `python app.py` to see it in your browser. 
 
 ### Features ###
-https://github.com/rajeevsingla780/Breast-Cancer-Prediction/blob/main/Input%20and%20Output/Home.PNG
+<img src=https://github.com/rajeevsingla780/Breast-Cancer-Prediction/blob/main/Input%20and%20Output/Home.PNG>
 
 #### Cancer Prediction ####
 ----------------------------------------------------------------------------------------
