@@ -35,8 +35,11 @@ Fill in the relevant details and click on the Result button
 #### Providing relevant news regarding the breast cancer ####
 ----------------------------------------------------------------------------------------
 
-
+<img src=https://github.com/rajeevsingla780/Breast-Cancer-Prediction/blob/main/images/News.PNG>
 ---
 
 ### Deployment ###
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+
+## https://rajeev-101803655-breast-cancer.herokuapp.com/
